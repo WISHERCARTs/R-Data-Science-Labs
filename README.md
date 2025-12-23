@@ -1,10 +1,10 @@
-# R Data Science Labs 📊
+# R Data Science Labs
 
 > University R labs covering data visualization, statistical analysis, and data manipulation with ggplot2 & dplyr
 
 ---
 
-## 📖 About | เกี่ยวกับ
+## About | เกี่ยวกับ
 
 **EN:** A collection of R programming labs from ITDS125 - Introduction to Data Science course. Covers R basics, data visualization, statistical testing, and data manipulation.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📁 Contents | เนื้อหา
+## Contents | เนื้อหา
 
 | Folder                      | Topic (EN)                                     | หัวข้อ (TH)                                 |
 | --------------------------- | ---------------------------------------------- | ------------------------------------------- |
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Technologies | เทคโนโลยี
+## Technologies | เทคโนโลยี
 
 - **R** - Programming language for statistical computing
 - **ggplot2** - Data visualization library
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 What I Learned | สิ่งที่ได้เรียนรู้
+## What I Learned | สิ่งที่ได้เรียนรู้
 
 ### Lab 1 - R Basics | พื้นฐาน R
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 👨‍💻 Author | ผู้จัดทำ
+## Author | ผู้จัดทำ
 
 - **Wish Nakthong** - 6787074
 - **Punn Poungprom** - 6787055
